@@ -1,5 +1,5 @@
 #profile-title: Alliance VPN
-#profile-update-interval: 3
+#profile-update-interval: 3 
 #subscription-userinfo: expire=4070908800; total=10995116277760; used=0
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: 🚀 Alliance VPN • Совместная подписка двух VPN-проектов | 
